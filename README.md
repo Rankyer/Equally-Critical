@@ -24,3 +24,16 @@
 Official PyTorch implementation of the paper **Equally Critical: Samples, Targets, and Their Mappings in Datasets**.
 
 Code will be publicly available upon acceptance.
+
+## :label: Bibliography
+
+If you find this repository helpful for your project, please consider citing our work:
+
+```
+@article{yang2025equally,
+  title={Equally Critical: Samples, Targets, and Their Mappings in Datasets},
+  author={Yang, Runkang and Sun, Peng and Shang, Xinyi and Tang, Yi and Lin, Tao},
+  journal={arXiv preprint arXiv:2506.01987},
+  year={2025}
+}
+```
